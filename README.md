@@ -13,11 +13,18 @@ pip install requirements.txt
 ```
 
 ## Usage
+Here is an example folder of my images (3D print slices):
+![](/Assets/folder.PNG)
+
 Run GIFMaker.py through your console, and follow the GUI instructions:
-![](/Assets/GUI.png)
+![](/Assets/GUI.PNG)
+
+On the console you will also see the loading bars as it is working:
+![](/Assets/IDLE.PNG)
+
+Final GIF should look like this:
+![](/Assets/28Earphones.gif)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)

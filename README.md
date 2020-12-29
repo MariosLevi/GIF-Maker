@@ -16,6 +16,9 @@ pip install requirements.txt
 Run GIFMaker.py through your console, and follow the GUI instructions:
 ![](/Assets/GUI.PNG)
 
+Pick your folder of images:
+![](/Assets/folder.PNG)
+
 On the console you will also see the loading bars as it is working:
 ![](/Assets/IDLE.PNG)
 

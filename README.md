@@ -2,7 +2,7 @@
 A simply python script with a GUI to select folders of JPEG's or PNG's and make them into animated GIF's.
 
 ## Requirements
-Make sure you have python installed in your machine
+Make sure you have Python3.8 installed in your machine
 
 
 ## Installation
@@ -13,9 +13,6 @@ pip install requirements.txt
 ```
 
 ## Usage
-Here is an example folder of my images (3D print slices):
-![](/Assets/folder.PNG)
-
 Run GIFMaker.py through your console, and follow the GUI instructions:
 ![](/Assets/GUI.PNG)
 

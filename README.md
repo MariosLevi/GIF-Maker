@@ -14,7 +14,7 @@ pip install requirements.txt
 
 ## Usage
 Run GIFMaker.py through your console, and follow the GUI instructions:
-
+![](/Assets/GUI.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

@@ -6,7 +6,7 @@ Make sure you have Python3.8 installed in your machine
 
 
 ## Installation
-Clone this repo and type bellow command in your favorite command line terminal
+Clone this repo and type below command in your favorite command line terminal
 
 ```bash
 pip install requirements.txt
